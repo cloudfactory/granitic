@@ -75,12 +75,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/graniticio/granitic/v2/config"
-	"github.com/graniticio/granitic/v2/facility"
-	"github.com/graniticio/granitic/v2/instance"
-	"github.com/graniticio/granitic/v2/ioc"
-	"github.com/graniticio/granitic/v2/logging"
-	"github.com/graniticio/granitic/v2/uuid"
+	"github.com/cloudfactory/granitic/v2/config"
+	"github.com/cloudfactory/granitic/v2/facility"
+	"github.com/cloudfactory/granitic/v2/instance"
+	"github.com/cloudfactory/granitic/v2/ioc"
+	"github.com/cloudfactory/granitic/v2/logging"
+	"github.com/cloudfactory/granitic/v2/uuid"
 )
 
 const (
